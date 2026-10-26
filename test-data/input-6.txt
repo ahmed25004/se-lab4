@@ -1,0 +1,4 @@
+# Primary store has torpedoes but always fails
+# Secondary store has torpedoes and never fails
+GT4500,10,1,10,0
+TORPEDO,SINGLE
